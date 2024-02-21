@@ -8,9 +8,11 @@ Proposed
 
 ## Context
 [GPS](https://support.google.com/accounts/answer/6179507?hl=en)
+
 In order to provide available restaurants based on the user's current location, permission to use GPS should be granted."
 
 [Notification](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop)
+
 Users can receive notifications about the current status of their order.
 
 ## Decision
